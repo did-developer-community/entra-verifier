@@ -3,7 +3,7 @@
 ## About
 
 A sample implementation of verifier web application for Microsoft Entra Verified ID.  
-Working demo is running [here](https://diddcverify.azurewebsites.net/)
+Working demo is running [here](https://diddc-verify.azurewebsites.net/)
 
 ## Setup
 
